@@ -10,15 +10,18 @@ I'm starting to collect WWII-era and earlier Military Surplus rifles.  One of th
 - [ ] URL Request Filtered Webpage
 - [ ] Scrape Filtered Page using BeautifulSoup - get Lot Number / Individual Webpage
 - [ ] Create json object for single item lot.
-      - Model
-      - Manufacturer
-      - Bore Condition
-      - Rating
-      - Serial Number
-      - NPRF
-      - Estimated Price Range
-      - Price Realized (obfuscated png, read using OCR and convert to number)
-      - Hammer Price
+##### Json features
+- [ ] Lot Number
+- [ ] Auction Number
+- [ ] Model
+- [ ] Manufacturer
+- [ ] Bore Condition
+- [ ] Rating
+- [ ] Serial Number
+- [ ] NPRF
+- [ ] Estimated Price Range
+- [ ] Price Realized (obfuscated png, read using OCR and convert to number)
+- [ ] Hammer Price
 
 ## Scraper - Next Steps
 Config file:
